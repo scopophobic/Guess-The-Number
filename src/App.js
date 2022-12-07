@@ -18,7 +18,7 @@ function App() {
     const submit= ()=> {
       // alert(userG)  ;
       if(rannum==userG) {
-        setmess("Congrats you guess it right");
+        setmess("Congrats you GOT IT LESSSGOO0000");
       }else if(rannum>userG){
         setmess("your guess is too low");
       }
