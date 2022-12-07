@@ -37,7 +37,7 @@ function App() {
       <div>
         <p>message : {message}</p>
         <p>total count : {userCount}</p>
-        <p>random number : {rannum}</p>
+        {/* <p>random number : {rannum}</p> */}
       <p>
         your guesses : 
         {userallval?.map((item,i) =>{
